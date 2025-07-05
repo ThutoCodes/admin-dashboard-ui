@@ -11,7 +11,7 @@ This dashboard includes essential admin features such as login/authentication, r
 
 ## 🖼 Dashboard Preview
 
-![Admin Dashboard Screenshot](./Vue-elements-ui.png)
+![Admin Dashboard Screenshot](./Vue-element-ui.png)
 
 
 ---
