@@ -7,10 +7,12 @@ This dashboard includes essential admin features such as login/authentication, r
 ---
 
 ---
+---
 
-## 🚀 Live Demo
+## 🖼 Dashboard Preview
 
-📍 Coming Soon / [Add Hosted Link]
+![BizLaunch Admin Dashboard Screenshot](./eaa82a6a-7f40-4a3a-ab0a-2a7e0920f165.png)
+
 
 ---
 
