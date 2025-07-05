@@ -47,12 +47,24 @@ This dashboard includes essential admin features such as login/authentication, r
 - **Other:** ESLint, Prettier, Dropzone, Screenfull
 
 ---
+🧠 My Customizations
+Customized theme and UI layout
 
+Integrated Role-Based Access Control (RBAC)
+
+Prepared for backend/API integration
+
+Ready for Firebase or REST API connection
+
+👨🏽‍💻 Author
+Thuto Thabang Mpshe
+
+---
 ## 📦 Setup Instructions
 
 ```
 # Clone the repo
-git clone https://github.com/ThutoCodes/bizlaunch-admin-dashboard.git
+git clone https://github.com/ThutoCodes/admin-dashboard-ui.git
 
 # Navigate into the folder
 cd bizlaunch-admin-dashboard
@@ -78,14 +90,3 @@ npm run lint
 # Auto-fix formatting issues
 npm run lint -- --fix
 
-🧠 My Customizations
-Customized theme and UI layout
-
-Integrated Role-Based Access Control (RBAC)
-
-Prepared for backend/API integration
-
-Ready for Firebase or REST API connection
-
-👨🏽‍💻 Author
-Thuto Thabang Mpshe
